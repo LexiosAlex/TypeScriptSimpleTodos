@@ -1,4 +1,4 @@
-## To see version with reducer, switch the branch to "with_redux"
+## To a non redux version, switch the branch to "master"
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
